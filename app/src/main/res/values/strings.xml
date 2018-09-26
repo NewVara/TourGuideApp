@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="site_restaurants">Dining</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="site_shops">Shops</string>
+
+    <string name="site_visits">Sites</string>
+    <string name="site_brewery">Breweries</string>
+
+    <string name="restaurant1_name">Pearly\'s Beach Restaurant</string>
+    <string name="restaurant2_name">Breeze Restaurant</string>
+    <string name="restaurant3_name">Kokomo</string>
+    <string name="restaurant1_contact">Address: On the Beach, Bree St, Langebaan, 7357</string>
+    <string name="restaurant2_contact">Address: 9 Bree St, Langebaan, Cape Town, 7357</string>
+    <string name="restaurant3_contact">Address: 121 Hoof St, Langebaan, 7357</string>
+    <string name="shop1_name">Hyssop Health Shop</string>
+    <string name="shop2_name">Simply Bee Honey Shop</string>
+    <string name="shop3_name">Laguna Mall</string>
+    <string name="shop1_contact">Address: Cnr of Jakoba and, Bree St, Langebaan, 7357</string>
+    <string name="shop2_contact">Address: 31A Church St, Hopefield, 7355</string>
+    <string name="shop3_contact">Address: Laguna St, Skiathos, Langebaan, 7357</string>
+    <string name="site1_name">Oliphant\'s Kop Beach Ride</string>
+    <string name="site2_name">West Coast National Park</string>
+    <string name="site3_name">West Coast Fossil Park</string>
+    <string name="site1_contact">Address: Oliphantskop Rd, Langebaan, Cape Town, 7350</string>
+    <string name="site2_contact">Phone: 022 772 2144</string>
+    <string name="site3_contact">Phone: 022 766 1606</string>
+    <string name="brewery1_name">Black Eagle Brewery</string>
+    <string name="brewery2_name">Darling Brewers</string>
+    <string name="brewery1_contact">Address: 4 Suffren St, Langebaan, 7357</string>
+    <string name="brewery2_contact">Address: 48 Caledon Street, Darling, 7345</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
